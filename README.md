@@ -18,10 +18,17 @@ Com uma interface simples e intuitiva, o usuário pode selecionar a moeda de ori
 </div>
 <br>
 
-<div style="display: inline_block"><br>
-<img src="./assets/readmin/tema-dark.PNG">
-<img src="./assets/readmin/tema-light.PNG">
-<img src="./assets/readmin/dolar.PNG">
-<img src="./assets/readmin/euro.PNG">
-<img src="./assets/readmin/libra.PNG">
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src="./assets/readmin/tema-dark.PNG" alt="Tema Dark">
 </div>
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src="./assets/readmin/tema-light.PNG" alt="Tema Light">
+</div>
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src="./assets/readmin/dolar.PNG">
+  <img src="./assets/readmin/euro.PNG">
+  <img src="./assets/readmin/libra.PNG">
+</div>
+
